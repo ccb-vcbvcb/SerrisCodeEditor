@@ -26,4 +26,4 @@ Created by DeerisLeGris (Seeriis) under the MIT license.
 - SerialQueue by Orion Edwards: https://github.com/borland/SerialQueue (with MIT license)
 - Devicon by Konpa: https://github.com/konpa/devicon/ (with MIT license)
 - Win2D by Microsoft: https://github.com/Microsoft/Win2D (with MIT license)
-- UDE by Rudi Pettazzi: https://github.com/linquize/ude/ (with MPL 1.1 license)
+- UDE by Rudi Pettazzi: https://github.com/linquize/ude/ (with MPL 1.1 license)j
